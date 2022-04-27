@@ -1,0 +1,6 @@
+{
+    "python.linting.enabled": false,
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.fileDirectoryAsCwd": false,
+    "code-runner.runInTerminal": true,
+}
