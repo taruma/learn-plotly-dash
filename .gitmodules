@@ -1,0 +1,3 @@
+[submodule "source/Plotly-Dashboards-with-Dash"]
+	path = source/Plotly-Dashboards-with-Dash
+	url = https://github.com/Pierian-Data/Plotly-Dashboards-with-Dash.git
