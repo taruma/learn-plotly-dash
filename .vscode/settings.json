@@ -3,4 +3,6 @@
     "code-runner.clearPreviousOutput": true,
     "code-runner.fileDirectoryAsCwd": false,
     "code-runner.runInTerminal": true,
+    "editor.formatOnSave": true,
+    "python.formatting.provider": "black",
 }

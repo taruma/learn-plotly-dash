@@ -1,3 +1,6 @@
 import pandas as pd
 
-print(pd.DataFrame([2, 3, 4]))
+salary = pd.read_csv(
+    r"C:\_github\learn-plotly-dash\_source\0-02-Pandas-Crash-Course\salaries.csv"
+)
+print(salary)
