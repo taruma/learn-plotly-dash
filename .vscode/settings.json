@@ -4,5 +4,5 @@
     "code-runner.fileDirectoryAsCwd": false,
     "code-runner.runInTerminal": true,
     "editor.formatOnSave": true,
-    "python.formatting.provider": "black",
+    "python.formatting.provider": "autopep8",
 }

@@ -2,7 +2,7 @@ import plotly.io as pio
 
 uma = pio.templates["none"]
 
-uma.layout.hovermode = "x unified"
+uma.layout.hovermode = "x"
 
 uma.layout.images = [
     dict(
